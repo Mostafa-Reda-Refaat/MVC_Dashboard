@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\PL\\PL.csproj": {}
+  },
+  "projects": {
+    "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\center salah\\.nuget\\packages\\",
+        "outputPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\center salah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\DAL\\DAL.csproj": {
+                "projectPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\center salah\\.nuget\\packages\\",
+        "outputPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\center salah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\PL\\PL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\PL\\PL.csproj",
+        "projectName": "PL",
+        "projectPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\PL\\PL.csproj",
+        "packagesPath": "C:\\Users\\center salah\\.nuget\\packages\\",
+        "outputPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\PL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\center salah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\BLL\\BLL.csproj": {
+                "projectPath": "F:\\Mostafa Reda\\Route\\Assignment\\02 C#\\06 MVC\\Assignment 3\\Demo\\BLL\\BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.27, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
